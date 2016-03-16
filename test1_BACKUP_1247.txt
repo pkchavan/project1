@@ -1,0 +1,8 @@
+This is test1 file
+<<<<<<< HEAD
+	Adding line in between on master branch.
+This second line.
+=======
+	Added line in between on test branch.
+Added second line in file.
+>>>>>>> test

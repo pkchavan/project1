@@ -1,3 +1,5 @@
 This is test1 file
-	Adding line in between on master branch.
-This second line.
+
+	Added line in between.
+Added second line in file. 
+This text is added again.
